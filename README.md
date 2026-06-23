@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vijay%20AP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Developer%20%7C%20Java%20%26%20Web%20Enthusiast%20%7C%20Building%20One%20Commit%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vijay+AP+%F0%9F%91%8B;Java+%7C+HTML+%7C+CSS+Developer;CSE+Student+%40+Muthayammal+College;Open+to+Collaborate+%26+Learn+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vijay+AP+%F0%9F%91%8B;Java+%7C+HTML+%7C+CSS+Developer;CSE+Student+%40+Muthayammal+College;Open+to+Collaborate+%26+Learn+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,7 +24,7 @@ public class Vijay {
         return "Write clean code. Build useful things. Keep learning.";
     }
 }
-` ` `
+```
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -67,7 +65,7 @@ public class Vijay {
 
 <div align="center">
   <a href="https://github.com/Vijay-boy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijay-boy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Vijay's GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vijay-boy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Vijay GitHub Stats"/>
   </a>
   <a href="https://github.com/Vijay-boy">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-boy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
@@ -106,8 +104,8 @@ public class Vijay {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🏢 Business Website](https://vijay-boy.github.io) | HTML, CSS, GitHub Pages | Responsive business website hosted live via GitHub Pages |
-| [🗂️ Personal Portfolio](https://vijay-boy.github.io) | HTML, CSS, GitHub Pages | Portfolio showcasing skills, projects & contact; mobile + desktop ready |
+| 🏢 Business Website | HTML, CSS, GitHub Pages | Responsive business website hosted live via GitHub Pages |
+| 🗂️ Personal Portfolio | HTML, CSS, GitHub Pages | Portfolio showcasing skills, projects and contact info; mobile + desktop ready |
 
 </div>
 
@@ -135,7 +133,7 @@ public class Vijay {
 
 | Degree | Institution | Board / University | Year | Score |
 |:-------|:------------|:-------------------|:----:|:-----:|
-| B.E. — Computer Science & Engineering | Muthayammal College of Engineering, Namakkal | Anna University | 2027 (Pursuing) | 7.86 CGPA |
+| B.E. Computer Science & Engineering | Muthayammal College of Engineering, Namakkal | Anna University | 2027 (Pursuing) | 7.86 CGPA |
 | HSC (Class XII) | Govt. Higher Secondary School, Thirumanur | State Board | 2023 | 75.3% |
 | SSLC (Class X) | Saraswathi Matric Hr. Sec. School, Ayilpatty | State Board | 2021 | 100% |
 
@@ -145,13 +143,13 @@ public class Vijay {
 
 ## 🌱 Currently Learning
 
-` ` `
-🟦 Java          → OOP, Collections, Exception Handling, JDBC
-🌐 JavaScript    → DOM, ES6+, Async/Await, Fetch API
-⚛️  React         → Components, Hooks, State Management
-🧪 Software Testing → Manual Testing, Test Cases, Bug Reporting
-🔧 DSA           → Arrays, Strings, Linked Lists, Sorting
-` ` `
+```
+🟦 Java             -> OOP, Collections, Exception Handling, JDBC
+🌐 JavaScript       -> DOM, ES6+, Async/Await, Fetch API
+⚛️  React            -> Components, Hooks, State Management
+🧪 Software Testing -> Manual Testing, Test Cases, Bug Reporting
+🔧 DSA              -> Arrays, Strings, Linked Lists, Sorting
+```
 
 ---
 
@@ -162,7 +160,3 @@ public class Vijay {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-```
-
----
-
