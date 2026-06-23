@@ -166,20 +166,3 @@ public class Vijay {
 
 ---
 
-> ⚠️ **Note:** The ` ` ` above are shown with spaces to avoid rendering issues here. In your actual file, use ` ``` ` (no spaces) for the code blocks.
-
----
-
-### 📋 Step-by-step to upload:
-
-1. Go to **github.com** → click **"New repository"**
-2. Set the repository name to exactly **`Vijay-boy`** (same as your GitHub username)
-3. Make it **Public** ✅
-4. Check **"Add a README file"** ✅
-5. Click **Create repository**
-6. Open the `README.md` file → click the **pencil (edit) icon**
-7. **Select all** the default text and **delete it**
-8. **Paste** the code above
-9. Click **"Commit changes"** → Done! ✅
-
-Your profile at `github.com/Vijay-boy` will now show the full animated README.
